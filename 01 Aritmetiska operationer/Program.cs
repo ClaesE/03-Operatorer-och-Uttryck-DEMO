@@ -1,4 +1,7 @@
-﻿int squareParameter = 17;
+﻿// Koden bor i Github, på https://github.com/ClaesE/03-Operatorer-och-Uttryck-DEMO
+
+
+int squareParameter = 17;
 double squareSide = squareParameter / 4.0;
 double squareArea = squareSide * squareSide;
 Console.WriteLine(squareSide);
